@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "asdfasdf",
+      "description": "asdfasdf",
+      "id": 1
+    },
+    {
+      "title": "asdfasdf",
+      "description": "asdfasdf",
+      "id": 2
+    },
+    {
+      "title": "asdfasdf",
+      "description": "asdfasdf",
+      "id": 3
+    },
+    {
+      "title": "asdfasdf",
+      "description": "asdfasdf",
+      "id": 4
+    },
+    {
+      "title": "Programmatic nav test",
+      "description": "test2",
+      "id": 6
+    }
+  ]
+}
